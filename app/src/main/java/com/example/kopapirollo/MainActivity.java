@@ -59,6 +59,8 @@ public class MainActivity extends AppCompatActivity {
                     builderVege.setTitle("Vereség");
                     AlertDialog dialog = builderVege.create();
                     dialog.show();
+
+
                 }
             }
         });
